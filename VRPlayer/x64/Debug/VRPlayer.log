@@ -1,0 +1,43 @@
+﻿  hellovr_opengl_main.cpp
+c:\vr\ffmpeg-x64-new\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\vr\opencv\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\vr\opencv\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\vr\opencv\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\vr\opencv\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\vr\opencv\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(224): warning C4996: 'avpicture_fill': 被声明为已否决
+  c:\vr\ffmpeg-x64-new\include\libavcodec\avcodec.h(5419): note: 参见“avpicture_fill”的声明
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(580): warning C4838: 从“double”转换到“float”需要收缩转换
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(759): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(781): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(768): warning C4996: 'av_register_all': 被声明为已否决
+  c:\vr\ffmpeg-x64-new\include\libavformat\avformat.h(2025): note: 参见“av_register_all”的声明
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(1049): warning C4101: “end_time”: 未引用的局部变量
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(1049): warning C4101: “diff”: 未引用的局部变量
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(1129): warning C4101: “end_time1”: 未引用的局部变量
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(1129): warning C4101: “start_time1”: 未引用的局部变量
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(1491): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(568): note: 参见“stricmp”的声明
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(1495): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(568): note: 参见“stricmp”的声明
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(1499): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(568): note: 参见“stricmp”的声明
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(1503): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(568): note: 参见“stricmp”的声明
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(1507): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(568): note: 参见“stricmp”的声明
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(1511): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(568): note: 参见“stricmp”的声明
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(2118): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(568): note: 参见“stricmp”的声明
+  正在生成代码...
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(806): warning C4715: “AudioInit”: 不是所有的控件路径都返回值
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer+decoder\vrplayer\hellovr_opengl_main.cpp(906): warning C4715: “AudioPlay”: 不是所有的控件路径都返回值
+  正在跳过...(未检测到相关更改)
+  tcp_client.cpp
+  DecodeVideo.cpp
+  VRPlayer.vcxproj -> C:\Users\cic-vr\Documents\Visual Studio 2015\Projects\VRPlayer+Decoder\x64\Debug\VRPlayer.exe
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Users\cic-vr\Documents\Visual Studio 2015\Projects\VRPlayer+Decoder\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+  已复制         2 个文件。

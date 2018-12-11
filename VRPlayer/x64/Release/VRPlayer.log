@@ -1,0 +1,68 @@
+﻿  DecodeVideo.cpp
+c:\vr\ffmpeg-x64\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\VR\opencv\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\VR\opencv\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\VR\opencv\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\VR\opencv\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\VR\opencv\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+DecodeVideo.cpp(18): warning C4996: 'avpicture_fill': 被声明为已否决
+  C:\VR\ffmpeg-x64\include\libavcodec/avcodec.h(5419): note: 参见“avpicture_fill”的声明
+LINK : warning LNK4098: 默认库“MSVCRTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+MSVCRT.lib(initializers.obj) : warning LNK4098: 默认库“libcmt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  2 of 501 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewDeleteBuffers
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 glewInit
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewLinkProgram
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewTexImage2DMultisample
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewDeleteShader
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewGenerateMipmap
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewGenBuffers
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewGenRenderbuffers
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewDebugMessageControl
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 glewExperimental
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewBindFramebuffer
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewUniformMatrix4fv
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewBindRenderbuffer
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewDisableVertexAttribArray
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewGenFramebuffers
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewFramebufferRenderbuffer
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewDeleteFramebuffers
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewDeleteRenderbuffers
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewCheckFramebufferStatus
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewGenVertexArrays
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewFramebufferTexture2D
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewShaderSource
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewDeleteProgram
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewActiveTexture
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewAttachShader
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewBufferData
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewGetUniformLocation
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewDeleteVertexArrays
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewBlitFramebuffer
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 glewGetErrorString
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewGetProgramiv
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewRenderbufferStorageMultisample
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewCreateProgram
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewBindBuffer
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewCreateShader
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewCompileShader
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewDebugMessageCallback
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewGetShaderiv
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewVertexAttribPointer
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewUseProgram
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewBindVertexArray
+hellovr_opengl_main.obj : warning LNK4049: 已导入本地定义的符号 __glewEnableVertexAttribArray
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“C:\Users\cic-vr\Documents\Visual Studio 2015\Projects\VRPlayer+Decoder\x64\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLBatch.obj) : warning LNK4099: 未找到 PDB“gltools-static.pdb”(使用“gltools.lib(GLBatch.obj)”或在“C:\Users\cic-vr\Documents\Visual Studio 2015\Projects\VRPlayer+Decoder\x64\Release\gltools-static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLTools.obj) : warning LNK4099: 未找到 PDB“gltools-static.pdb”(使用“gltools.lib(GLTools.obj)”或在“C:\Users\cic-vr\Documents\Visual Studio 2015\Projects\VRPlayer+Decoder\x64\Release\gltools-static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLTriangleBatch.obj) : warning LNK4099: 未找到 PDB“gltools-static.pdb”(使用“gltools.lib(GLTriangleBatch.obj)”或在“C:\Users\cic-vr\Documents\Visual Studio 2015\Projects\VRPlayer+Decoder\x64\Release\gltools-static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(math3d.obj) : warning LNK4099: 未找到 PDB“gltools-static.pdb”(使用“gltools.lib(math3d.obj)”或在“C:\Users\cic-vr\Documents\Visual Studio 2015\Projects\VRPlayer+Decoder\x64\Release\gltools-static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  VRPlayer.vcxproj -> C:\Users\cic-vr\Documents\Visual Studio 2015\Projects\VRPlayer+Decoder\x64\Release\VRPlayer.exe
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Users\cic-vr\Documents\Visual Studio 2015\Projects\VRPlayer+Decoder\x64\Release\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+  已复制         2 个文件。
